@@ -1,3 +1,3 @@
 # hello-world
 Introduction to Github, or just another repository 
-Thia ia juat Practice brunch for Baharkiyya to learn GitHub. 
+This is just Practice brunch for Baharkiyya to learn GitHub. 
